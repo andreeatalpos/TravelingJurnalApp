@@ -11,7 +11,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Trip Name" />
+        android:text="@string/trip_name" />
 
     <EditText
         android:id="@+id/tripEditText"
@@ -20,14 +20,14 @@
         android:paddingTop="20dp"
         android:textColor="@color/black"
         android:background="@color/white"
-        android:hint="Name"
+        android:hint="@string/name"
         android:inputType="text" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:paddingTop="20dp"
-        android:text="Trip Destination" />
+        android:text="@string/trip_destination" />
 
     <EditText
         android:id="@+id/destinationEditText"
@@ -36,12 +36,12 @@
         android:paddingTop="20dp"
         android:textColor="@color/black"
         android:background="@color/white"
-        android:hint="Destination"
+        android:hint="@string/destination"
         android:inputType="text" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Trip Type"
+        android:text="@string/trip_type"
         android:paddingTop="10dp"/>
 
     <LinearLayout
@@ -59,21 +59,21 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="City Break" />
+            android:text="@string/city_break" />
 
         <RadioButton
             android:id="@+id/radio1"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Seaside" />
+            android:text="@string/seaside" />
 
         <RadioButton
             android:id="@+id/radio2"
             android:layout_weight="1"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:text="Mountains" />
+            android:text="@string/mountains" />
 
     </LinearLayout>
 
@@ -81,7 +81,7 @@
         android:paddingTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Price €" />
+        android:text="@string/price" />
 
     <com.google.android.material.slider.Slider
         android:layout_width="wrap_content"
@@ -93,19 +93,18 @@
     android:paddingTop="10dp"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Timeframe"
+    android:text="@string/timeframe"
     />
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true">
+        android:layout_height="wrap_content">
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="10dp"
-            android:text="start date"
+            android:text="@string/start_date"
             app:backgroundTint="@color/black"
 
             />
@@ -116,7 +115,7 @@
             android:layout_margin="10dp"
             android:paddingHorizontal="20dp"
             app:backgroundTint="@color/black"
-            android:text="end date   "
+            android:text="@string/end_date"
             />
 
     </LinearLayout>
@@ -124,7 +123,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Rate your trip"
+        android:text="@string/rate_your_trip"
         />
     <RatingBar
         android:layout_width="match_parent"
@@ -134,7 +133,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Select photo"
+        android:text="@string/select_photo"
         />
     <LinearLayout
         android:layout_width="match_parent"
@@ -145,20 +144,20 @@
             android:layout_weight="1"
             android:layout_margin="10dp"
             app:backgroundTint="@color/black"
-            android:text="gallery"/>
+            android:text="@string/gallery"/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:layout_margin="10dp"
             app:backgroundTint="@color/black"
-            android:text="camera"/>
+            android:text="@string/camera"/>
     </LinearLayout>
     <Button
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_margin="20dp"
-        android:text="Save trip"
+        android:text="@string/save_trip"
         app:backgroundTint="@color/black"
         />
 
