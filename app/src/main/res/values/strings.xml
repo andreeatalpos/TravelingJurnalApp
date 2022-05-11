@@ -1,5 +1,22 @@
 <resources>
     <string name="app_name">TravelingJurnalApp</string>
+    <string name="trip_name">Trip Name</string>
+    <string name="name">Name</string>
+    <string name="trip_destination">Trip Destination</string>
+    <string name="destination">Destination</string>
+    <string name="trip_type">Trip Type</string>
+    <string name="city_break">City Break</string>
+    <string name="seaside">Seaside</string>
+    <string name="mountains">Mountains</string>
+    <string name="price">Price €</string>
+    <string name="timeframe">Timeframe</string>
+    <string name="start_date">start date</string>
+    <string name="end_date">end date</string>
+    <string name="rate_your_trip">Rate your trip</string>
+    <string name="select_photo">Select photo</string>
+    <string name="gallery">gallery</string>
+    <string name="camera">camera</string>
+    <string name="save_trip">Save trip</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
     <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up!</string>
