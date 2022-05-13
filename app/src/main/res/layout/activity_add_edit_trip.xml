@@ -78,28 +78,31 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/textViewPrice"
         android:paddingTop="20dp"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/price" />
 
-    <com.google.android.material.slider.Slider
-        android:layout_width="wrap_content"
+    <SeekBar
+        android:id="@+id/seekBar"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:thumbColor="@color/black"
         app:trackColor="@color/black" />
 
     <TextView
-        android:paddingTop="10dp"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/timeframe"
-        />
+    android:paddingTop="10dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="@string/timeframe"
+    />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
         <Button
+            android:id="@+id/buttonStartDate"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -109,6 +112,7 @@
 
             />
         <Button
+            android:id="@+id/buttonEndDate"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -126,6 +130,7 @@
         android:text="@string/rate_your_trip"
         />
     <RatingBar
+        android:id="@+id/ratingBar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:backgroundTint="@color/black"
@@ -154,8 +159,9 @@
             android:text="@string/camera"/>
     </LinearLayout>
     <Button
+        android:id="@+id/buttonSave"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="wrap_content"
         android:layout_margin="20dp"
         android:text="@string/save_trip"
         app:backgroundTint="@color/black"

@@ -24,4 +24,8 @@
     <string name="register">Register</string>
     <string name="username">Username</string>
     <string name="already_have_an_account_sign_in">Already have an account? Sign in!</string>
+    <string name="trip_error">Trip error</string>
+    <string name="destination_error">Destination error</string>
+    <string name= "select_date">Select date pls</string>
+    <string name="chose_string">Chose</string>
 </resources>
