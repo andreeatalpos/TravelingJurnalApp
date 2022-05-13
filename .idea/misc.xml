@@ -3,6 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/activity_login.xml" value="0.12360688956433637" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.264" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.12335359675785208" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/content_navigation_drawer.xml" value="0.12335359675785208" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/fragment_about_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/fragment_contact_us.xml" value="0.25416666666666665" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/fragment_gallery.xml" value="0.24320652173913043" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/fragment_home.xml" value="0.11302083333333333" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/fragment_homee.xml" value="0.1" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.25364583333333335" />
+        <entry key="..\:/Curs Android Google/TravelingJurnalApp/app/src/main/res/menu/navigation_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/TravelingJurnalApp/app/src/main/res/drawable-v24/gradient_3.xml" value="0.291" />
+        <entry key="..\:/TravelingJurnalApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/TravelingJurnalApp/app/src/main/res/layout/activity_register.xml" value="0.30480072463768115" />
         <entry key="..\:/Users/Doroteea/AndroidStudioProjects/TravelingJurnalApp/app/src/main/res/drawable/drawable.xml" value="0.1" />
         <entry key="..\:/Users/Doroteea/AndroidStudioProjects/TravelingJurnalApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Users/Doroteea/AndroidStudioProjects/TravelingJurnalApp/app/src/main/res/layout/activity_add_edit_trip.xml" value="0.1" />
